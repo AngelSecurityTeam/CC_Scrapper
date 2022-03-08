@@ -1,18 +1,19 @@
 # CC_Scrapper
 Telegram CC  Scrapper - Credit Targets
 
-Requirements
+<h3> Requirements </h3>
 
-Python3
+* Python3
 
-Execution:
-git clone https://github.com/AngelSecurityTeam/CC_Scrapper
+<h3> Execution: </h3>
 
-cd CC_Scrapper
+* git clone https://github.com/AngelSecurityTeam/CC_Scrapper
 
-pip install -r requirements.txt
+* cd CC_Scrapper
 
-python3 cc_scrapper.py or python cc_scrapper
+* pip install -r requirements.txt
+
+* python3 cc_scrapper.py or python cc_scrapper
 
 
 <h3>AngelSecurityTeam</h3>
