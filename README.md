@@ -19,3 +19,5 @@ Telegram CC  Scrapper - Credit Targets
 <h3>AngelSecurityTeam</h3>
 
 <img src="https://github.com/AngelSecurityTeam/CC_Scrapper/blob/main/1.jpg">
+
+<img src="https://github.com/AngelSecurityTeam/CC_Scrapper/blob/main/2.jpg">
