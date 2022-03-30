@@ -1,5 +1,6 @@
 # CC_Scrapper
-Telegram CC  Scrapper - Credit Targets
+
+Telegram CC Scrapper - Debit/Credit Card [channel public or private / group ]
 
 <h3> Requirements </h3>
 
