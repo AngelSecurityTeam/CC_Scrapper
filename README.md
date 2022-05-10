@@ -21,4 +21,6 @@ Telegram CC Scrapper - Debit/Credit Card [channel public or private / group ]
 
 <img src="https://github.com/AngelSecurityTeam/CC_Scrapper/blob/main/1.jpg">
 
+<img src="https://github.com/AngelSecurityTeam/CC_Scrapper/blob/main/img2.jpg">
+
 <img src="https://github.com/AngelSecurityTeam/CC_Scrapper/blob/main/2.jpg">
