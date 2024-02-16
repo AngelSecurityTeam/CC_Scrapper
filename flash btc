@@ -1,0 +1,34 @@
+from bitcoinlib.wallets import Wallet
+
+def create_bitcoin_transaction(private_key, inputs, outputs):
+    wallet = Wallet(private_key=private_key)
+    transaction = wallet.send_to(outputs, fee=0.0001, absolute_fee=True, combine=True, message=None, sign=True)
+    return transaction
+
+# Example usage
+private_key = "your_private_key_goes_here"
+
+inputs = [
+    {
+        "address": "input_address_1",
+        "value": 2000
+    },
+    {
+        "address": "input_address_2",
+        "value": 3000
+    }
+]
+
+outputs = [
+    {
+        "address": "output_address_1",
+        "value": 2000
+    },
+    {
+        "address": "output_address_2",
+        "value": 1000
+    }
+]
+
+real_transaction = create_bitcoin_transaction(private_key, inputs, outputs)
+print(real_transaction)
